@@ -1,1 +1,2 @@
 Some changes to the file has been made.
+Here's another line added.
