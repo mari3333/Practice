@@ -1,9 +1,1 @@
-Some changes to the file has been made.
-W
-a
-i
-t
-i
-n
-g
-!
+This is a fresh start.
