@@ -1,1 +1,10 @@
-This is a fresh start.
+main()
+{
+	int var1;
+	int var2;
+
+	for (var1=0;var<100;var++)
+	{
+		var2 = var1+3;
+	}
+}
