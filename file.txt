@@ -1,6 +1,4 @@
-Some changes to the file has been made. 
-Here's additional info added.
-Practicing pull requests.
+Some changes to the file has been made.
 W
 a
 i
