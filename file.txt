@@ -1,10 +1,2 @@
-main()
-{
-	int var1;
-	int var2;
-
-	for (var1=0;var<100;var++)
-	{
-		var2 = var1+3;
-	}
-}
+Here's an update to the file.
+Still practicing.
